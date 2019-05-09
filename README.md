@@ -47,5 +47,36 @@ Those who _do_ understand JavaScript's point of view are able to:
 
 These are all abilities worth having!  So, let's get to know the mind of
 JavaScript by learning some of the amazingly cool things we can do with
-functions. We'll start off by doing a quick recap of the basic use and creation
-of functions.
+functions.
+
+## The Road Ahead
+
+First, we'll start off by doing a quick recap of the basic use and creation
+of functions. Make sure that you're comfortable with these declarations and
+concepts as they're going to be the essential tools you need to understand
+JavaScript's love of the function.
+
+Then we'll take a slight tangent: we're going to explore JavaScript's
+collection-processing methods. These are methods with names like `map`, 
+`reduce`, and `filter`. If you come from a Ruby background you'll recognize
+these as the `Enumerable` methods and will be comfortable with the idea
+of what they do and how they work. But, importantly, these methods, in
+JavaScript work by doing some really surprising stuff with functions. So
+while we want you to know these methods for their own sake &mdash; they'll
+make doing data processing much easier &mdash; we _also_ want you to see
+how these methods show JavaScript's love of passing functions about.
+
+With a good grip of functions, we'll tackle one of the biggest mysteries
+of learning JavaScript, the keyword `this` and its associated methods
+of `call`, `bind`, and `apply`. These methods consistently baffle new 
+JavaScript developers _and yet_ they are absolutely essential to working
+with JavaScript frameworks like React and Angular and writing Object-
+Oriented JavaScript. Many developers never really appreciate what's happening
+here and are forever searching the internet or avoiding code that makes
+them uncomfortable. We won't let that happen to you. Oh yeah, interviewers
+_love_ to ask questions in this area, so we want to make sure you're 
+well-prepared!
+
+After that you might fall in love with functions as much as JavaScript has.
+You're goinng to see the wisdom of some of JavaScript's choices and are
+going to be a more-thoughtful, more-empathetic, and more robust developer.
