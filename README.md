@@ -78,5 +78,5 @@ _love_ to ask questions in this area, so we want to make sure you're
 well-prepared!
 
 After that you might fall in love with functions as much as JavaScript has.
-You're goinng to see the wisdom of some of JavaScript's choices and are
+You're going to see the wisdom of some of JavaScript's choices and are
 going to be a more-thoughtful, more-empathetic, and more robust developer.
