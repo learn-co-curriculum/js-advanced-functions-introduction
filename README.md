@@ -2,17 +2,20 @@
 
 ## On Character and Programming Languages
 
-As you learn more programming languages, you'll come to learn that they each
-have a point of view, an essential view on the world. It's like how a lot of
-our favorite authors or artists have a certain style that gives them away:
+As you learn more more about other programming languages, you'll come to
+realize that they each have a point of view--themes and patterns that may
+be unique to them that will become more obvious as you become familiar.
+Consider some of your favorite authors or artists; many of them likely
+have a certain style that gives their work away without it being explictly stated:
 
-* Tarantino movies involve shootouts and pop culture references
+* For example, many Quentin Tarantino movies involve shootouts and pop
+  culture references from bygone years
 * Maria Callas' _bel canto_ wedding of emotional tension with vocal
   interpretation
-* Dickens novels usually feature noble, but poor, people showing virtue against
-  a cold world
-* Rothko paintings are huge in scope and seem designed to dominate your
-  emotions
+* Dickens novels usually feature noble, but poor, people showing virtue
+  against a cruel world
+* Rothko paintings are very large in scope and seem designed to dominate
+  your emotions
 
 Like these creators, JavaScript has a fundamental point of view:
 
