@@ -3,7 +3,7 @@
 ## On Character and Programming Languages
 
 As you learn more more about other programming languages, you'll come to
-realize that they each have a point of view--themes and patterns that may
+realize that they each have a point of view &mdash; themes and patterns that may
 be unique to them that will become more obvious as you become familiar with them.
 Consider some of your favorite authors or artists; many of them likely
 have a certain style that gives their work away without it being explictly stated:
