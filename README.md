@@ -6,7 +6,7 @@ As you learn more more about other programming languages, you'll come to
 realize that they each have a point of view &mdash; themes and patterns that may
 be unique to them that will become more obvious as you become familiar with them.
 Consider some of your favorite authors or artists; many of them likely
-have a certain style that gives their work away without it being explictly stated:
+have a certain style that gives their work away without it being explicitly stated:
 
 * For example, many Quentin Tarantino movies involve shootouts and pop
   culture references from bygone years
@@ -80,6 +80,6 @@ them uncomfortable. We won't let that happen to you. Oh yeah, interviewers
 _love_ to ask questions in this area, so we want to make sure you're 
 well-prepared!
 
-After that you might fall in love with functions as much as JavaScript has.
+After that, you might fall in love with functions as much as JavaScript has.
 You're going to see the wisdom of some of JavaScript's choices and are
 going to be a more-thoughtful, more-empathetic, and more robust developer.
